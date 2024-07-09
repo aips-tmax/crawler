@@ -1,4 +1,4 @@
-name: Frontend CD with Docker Hub
+name: CD with Docker Hub
 on:
   push:
     branches:
